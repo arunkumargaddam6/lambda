@@ -1,0 +1,9 @@
+the core concepts of boto3
+
+Session
+Resource
+Client
+Meta
+Collections
+Waiters
+Paginators
